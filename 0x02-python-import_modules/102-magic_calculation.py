@@ -13,3 +13,7 @@ def magic_calculation(a, b):
 
     else:
         return(sub(a, b))
+if __name__ == "__main__":
+    # You can include test cases or additional code that should
+    # only run when the script is executed directly.
+    pass
